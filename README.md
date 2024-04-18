@@ -22,7 +22,7 @@
 - ⚡ Fun fact **Devs won't use light Mode , because Light attracts Bugs 🪲**
 
 
-###
+### CodeWar Rank
  <img src="https://www.codewars.com/users/KuntalGain/badges/large" alt="Kuntal-Gain" />
 <div align="center">
 
