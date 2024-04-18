@@ -1,9 +1,10 @@
 
-![Banner](https://github.com/Kuntal-Gain/Kuntal-Gain/assets/166943482/2b62f393-c152-44af-b76d-9e9072d1f56b)
 
 
 <h1 align="center">Hi 👋, I'm Kuntal Gain </h1>
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">A passionate Mobile Application developer from India </h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuntal-Gain&label=Profile%20views&color=0e75b6&style=flat" alt="Kuntal-Gain" /> </p>
 
@@ -22,8 +23,10 @@
 
 
 ###
-
+ <img src="https://www.codewars.com/users/KuntalGain/badges/large" alt="Kuntal-Gain" />
 <div align="center">
+
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=Kuntal-Gain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuntal-Gain&locale=en&hide_title=false&layout=compact&card_width=160&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
 </div>
