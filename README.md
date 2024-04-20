@@ -23,7 +23,7 @@
 
 
 ### CodeWar Rank
- <img src="https://www.codewars.com/users/KuntalGain/badges/large" alt="Kuntal-Gain" />
+ <img src="https://www.codewars.com/users/ShadowAssassin/badges/large" alt="Kuntal-Gain" />
 <div align="center">
 
  
